@@ -1,4 +1,5 @@
-# Install NoiseTorch (RealTime Voice Noise Remover) In Linux
+# NoiseTorch Installing In Linux
+`(RealTime Voice Noise Remover)`
 
 ### 1 - Download NoiseTorch Release   
 [https://github.com/lawl/NoiseTorch/releases](https://github.com/lawl/NoiseTorch/releases)
