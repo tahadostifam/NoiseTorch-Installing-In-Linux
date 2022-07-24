@@ -1,4 +1,4 @@
-# NoiseTorch Installing In Linux
+# How to install NoiseTorch on Linux
 `(RealTime Voice Noise Remover)`
 
 ### 1 - Download NoiseTorch Release   
@@ -19,7 +19,7 @@ gtk-update-icon-cache
 sudo setcap 'CAP_SYS_RESOURCE=+ep' ~/.local/bin/noisetorch
 ```
 
-## NoiseTorch Installed Successfullt ^^  
+## NoiseTorch Installed Successfully ^^  
 #### Run
 ```bash
 ~/.local/bin/noisetorch 
